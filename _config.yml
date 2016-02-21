@@ -16,10 +16,9 @@ markdown: kramdown
 
 
 # Manifest settings (Used to make manifest.json)
-# Edit manifest.json directly concerning icon infomation
-# A sample icon is in the /img directory and manifest.json references that icon.
+# Edit manifest.json directly with icon information
 manifest_name: Web App Full Name
-manifest_short_name: Short Name # Appears in "Add to home screen dialogues and may have other importance also"
+manifest_short_name: Short Name # Appears in "Add to home screen" dialogues
 manifest_lang: en
 manifest_background_color: white
 manifest_short_name:
