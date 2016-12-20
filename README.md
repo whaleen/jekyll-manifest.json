@@ -1,4 +1,4 @@
-# Jekyll-manifest.json
+# jekyll-manifest.json
 Output manifest.json to the _site directory of a Jekyll installation.
 
 Add the following to the config.yml file:
